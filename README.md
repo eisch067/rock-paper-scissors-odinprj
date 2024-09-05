@@ -1,1 +1,1 @@
-# tic-tak-toe-odinprj
+# rock-paper-scissors-odinprj
